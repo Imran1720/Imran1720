@@ -2,7 +2,7 @@
 
 
 
-![Image](https://github.com/user-attachments/assets/a5a65038-4d33-43c9-954e-0f4aaabee6e3)
+![Image](https://github.com/user-attachments/assets/e4d91539-723a-44cd-9daa-39c7c3f3c83b)
 # 💫 Hi 👋, I'm Shaik Imran Ali  
 **Game Developer | Learning Game Development at Outscal**
 
