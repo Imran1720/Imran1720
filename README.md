@@ -1,29 +1,52 @@
-<h1 align="center">Hi 👋, I'm Shaik Imran Ali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 Hi 👋, I'm Shaik Imran Ali  
+**Game Developer | Learning Game Development at Outscal**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran1720&label=Profile%20views&color=0e75b6&style=flat" alt="imran1720" /> </p>
+📩 **Email me at:** [skimran1720@gmail.com](mailto:skimran1720@gmail.com) for collaboration, projects, or just to connect. 😊
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran1720" alt="imran1720" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Full Stack Game Development**
+- 🔭 **Currently working on:** Mastering Design Patterns in game development  
+- 🌱 **Currently learning:** Advanced Design Patterns in Unity  
+- 👯 **Open to collaborate on:** Game development projects using Unity (2D/2.5D/Isometric)  
+- 🤔 **Looking for help with:** 2D Isometric game development — mechanics, optimization, and design  
+- 💬 **Ask me about:** Game development, tech support, or collaboration opportunities  
+- 📫 **How to reach me:** [skimran1720@gmail.com](mailto:skimran1720@gmail.com)  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** For me, “Game Over” is just a checkpoint for better code.
 
-- 👨‍💻 All of my projects are available at [https://skimran1720.wixsite.com/imran](https://skimran1720.wixsite.com/imran)
+---
 
-- 📫 How to reach me **skimran1720@gmail.com**
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikimranali) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shaikimranali1720) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skimran1720@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KOMiIUjoNXDjeTNOxMbc_sWSdXAx_bSz/view?usp=sharing](https://drive.google.com/file/d/1KOMiIUjoNXDjeTNOxMbc_sWSdXAx_bSz/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shaikimranali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaikimranali/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@shaikimranali1720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shaikimranali1720" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![substace](https://static.filehorse.com/icons-mac/photo-and-design/substance-painter-icon-32.png) ![Maya](https://windows-cdn.softpedia.com/screenshots/ico/Maya.gif)
+ 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Imran1720&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=Imran1720&theme=onedark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran1720&theme=onedark&hide_border=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran1720&show_icons=true&locale=en&layout=compact" alt="imran1720" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran1720&show_icons=true&locale=en" alt="imran1720" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Imran1720&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran1720&" alt="imran1720" /></p>
+---
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=Imran1720&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Imran1720&icon=4&color=0)](https://visitcount.itsvg.in)
+
+<!-- Created with GPRM: https://gprm.itsvg.in -->
